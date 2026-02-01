@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Intro👋
+ Nice to meet you! 
+ I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
 <!--
 **Margueritte-Hu/Margueritte-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
