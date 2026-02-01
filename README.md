@@ -1,4 +1,3 @@
-Intro
  Nice to meet you! 
  I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
 <!--
