@@ -1,5 +1,15 @@
- Nice to meet you! 
- I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
+
+ 
+ ### 👋  Nice to meet you! I'm Margueritte-Hu
+ 
+✨ Keep coding, keep growing ✨
+
+### ✨ Visitor Count
+<!-- 访客计数器，无需修改，自动统计 -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Margueritte-Hu.Margueritte-Hu)
+
+---
+*Made with ❤️ on GitHub*
 <!--
 **Margueritte-Hu/Margueritte-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
